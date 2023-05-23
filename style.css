@@ -1,0 +1,21 @@
+.container{
+    /* border: 3px solid green; */
+    margin-top: 15vh;
+    text-align: center;
+    
+}
+.conatiner h1{
+    text-align: center;
+}
+.button{
+    justify-content: center;
+    text-align: center;
+    font-size: 40px;
+    
+
+}
+*{
+    margin:0;
+    padding:0;
+    background-color: lightblue;
+}
